@@ -11,9 +11,9 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GabrielBragaRavanelli&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center"> 
-  <a href="mailto:gabrielravanelli1@gmail.com" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/gabriel-braga-3b7570260/" target="_blank" title="LinkedIn">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=gabrielravanelli1@gmail.com" target="_blank" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
   <a href="https://www.instagram.com/gabrielravanelli1/" target="_blank" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
